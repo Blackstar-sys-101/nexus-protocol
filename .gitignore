@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+nexus-env/
+.vscode/
+.env
+.secrets
