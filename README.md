@@ -316,24 +316,6 @@ Long-term (2-3 years)
 
     Emergent coordination intelligence
 
-🛠️ Development & Contribution
-Getting Started
-bash
-
-# Connect to development environment
-ssh user@nexus-server
-
-# Activate development environment
-nexus
-
-# Project structure
-/opt/nexus/
-├── src/backend/
-│   ├── security/     # Protection layers
-│   ├── witness/      # Observation & verification
-│   ├── coordination/ # Decision engines
-│   ├── execution/    # Action implementation
-│   └── api/          # System interfaces
 
 Development Principles
 
